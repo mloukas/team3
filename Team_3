@@ -1,3 +1,4 @@
 #!/bin/sh
 echo'<h1>The page of team 3 </h1>' > ../public_html/Team_3.html
 echo '<P>marios, xristos</P>' > ../public_html/Team_3.html
+echo '<P>Artemis, Aggelikh, </P>' > ../public_html/Team_3.html
