@@ -1,0 +1,2 @@
+#!/bin/sh
+echo'<h1>The page of team 3 </h1>' > ../public_html/myfile.html
