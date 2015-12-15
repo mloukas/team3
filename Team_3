@@ -4,3 +4,4 @@ echo '<P>marios, xristos</P>' >> ../../public_html/Team_3.html
 echo '<P>Artemis, Aggelikh, </P>' >> ../../public_html/Team_3.html
 echo '<P>aspro-mauro </P>' >> ../../public_html/Team_3.html
 chmod go+rx . ..
+date >> ../../public_html/Team_3.html
